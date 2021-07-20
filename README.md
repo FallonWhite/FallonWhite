@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Fallon. I am a software development student. I'm currently learning full-stack web development involving HTML, CSS/Bootstrap, Javascript, Node.js, Vue.js, and C#.
+
 <!--
 **FallonWhite/FallonWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
