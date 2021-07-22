@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fallon. I am a software development student. I'm currently learning full-stack web development involving HTML, CSS/Bootstrap, Javascript, Node.js, Vue.js, and C#.
+My name is Fallon. I am a software development student. I'm currently learning full-stack web development focusing on HTML, CSS/Bootstrap, Javascript, Node.js, Vue.js, and C#.
 
 Aside from coding, my background includes:<br>
 An Associates Degree with a focus on the foundations of business.<br>
