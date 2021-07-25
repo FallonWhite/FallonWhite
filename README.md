@@ -6,7 +6,6 @@ Aside from coding, my background includes:<br>
 An Associates Degree with a focus on the foundations of business.<br>
 An Esthetics license in the state of Idaho.<br>
 Experience in electronics manufacturing, including class 3 target hand-soldering, training of associates, and quality inspection in accordance with IPC-A-610E.<br>
-Experience in the hospitality industry, including front desk, supervision/training, and management.
 
 <!--
 **FallonWhite/FallonWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
